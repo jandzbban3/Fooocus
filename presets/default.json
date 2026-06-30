@@ -44,7 +44,7 @@
     "default_aspect_ratio": "1152*896",
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
-        // "DonutsDeliveryMix_V4.safetensors": "https://civitai.com/api/download/models/1739105?type=Model&format=SafeTensor&size=pruned&fp=fp16&token=8e728b6705b6a2650183d127a74a3644"
+        "UnrealVisionXL_(Photoreal+Uncensored+Flux-Merge).safetensors": "https://civitai.red/api/download/models/3047344?fileId=2926113"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
