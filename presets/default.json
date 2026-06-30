@@ -1,11 +1,11 @@
 {
-    "default_model": "DonutsDeliveryMix_V4.safetensors",
+    "default_model": "UnrealVisionXL_(Photoreal+Uncensored+Flux-Merge).safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
         [
             true,
-            "sd_xl_offset_example-lora_1.0.safetensors",
+            "None",
             0.1
         ],
         [
